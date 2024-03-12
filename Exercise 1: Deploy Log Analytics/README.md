@@ -33,4 +33,3 @@
 5. On the list of roles, select Log Analytics Reader and choose Next.
 6. On the Members page, choose Select Members and choose the App Log Examiners security group. Choose Select.
 7. On the Members space, choose Review + Assign.
-![/home/vsc/DevOps/myGitHub_repo/Deploy-and-Configure-Azure-Monitor/Project/ex.1]
