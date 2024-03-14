@@ -1,4 +1,4 @@
-# Deploy-and-Configure-Azure-Monitor
+# Azure-Monitor-Deploy-and-Configure
 Welcome to the Deploy and Configure Azure Monitor Hands-On project repository! This project is designed to provide a practical, interactive experience for mastering the deployment and configuration of Azure Monitor. Whether you're preparing for assessments, enhancing your Azure monitoring skills, or simply exploring Azure's monitoring capabilities, this repository is your guide.
 
 ## Project Objectives:
