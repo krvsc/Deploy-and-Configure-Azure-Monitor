@@ -6,6 +6,9 @@ Welcome to the Deploy and Configure Azure Monitor Hands-On project repository! T
 - Learn to effectively monitor various workloads and infrastructure services using Azure Monitor.
 - Configure alerts to proactively detect and respond to critical events.
 
+## Architecture Diagram:
+![moniring](https://github.com/user-attachments/assets/a4b9bfb0-ed6a-411a-9e0e-952f43cde25c)
+
 ## Project Structure:
 The project is structured into comprehensive exercises, each focusing on different aspects of deploying and configuring Azure Monitor:
 
