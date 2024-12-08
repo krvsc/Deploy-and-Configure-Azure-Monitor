@@ -4,9 +4,11 @@ This exercise focuses on preparing your Azure environment for subsequent tasks r
 
 ## Tasks:
 
-1. **Create a Log Analytics workspace.**
-2. **Configure Log Analytics data retention and archive policies.**
-3. **Enable access to a Log Analytics workspace.**
+1. **Create App Log Examiners security group**
+2. **Deploy and configure WS-VM1**
+3. **Deploy and configure LX-VM2**
+4. **Deploy a web app with an SQL Database**
+5. **Deploy a Linux web app**
 
 ## Prepare Your Bring-Your-Own-Subscription (BYOS):
 
